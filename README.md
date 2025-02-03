@@ -1,5 +1,5 @@
 # information-management-system-of-students
-##选用c#实现。学生信息管理系统。
+## 选用c#实现。学生信息管理系统。
 
 本系统包括两类用户：学生、管理员。
 
